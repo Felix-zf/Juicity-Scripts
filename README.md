@@ -9,4 +9,4 @@ wget -N https://raw.githubusercontent.com/Felix-zf/juicity-install/main/juicity.
 ```
 
 ## 客户端配置
-Juicity内核：https://github.com/juicity/juicity/releases
+- Juicity内核：https://github.com/juicity/juicity/releases
