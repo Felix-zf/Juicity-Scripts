@@ -31,4 +31,4 @@ juicity://uuid:password@example.domain.com:port?congestion_control=bbr&sni=examp
 
 ## 感谢
 - Juicity协议：https://github.com/juicity/juicity
-- HiFeng's Blog Juicity协议手动安装教程: https://www.hicairo.com/post/74.html#:~:text=Juicity%E3%80%81
+- HiFeng's Blog Juicity协议手动安装教程: https://www.hicairo.com/post/74.html
