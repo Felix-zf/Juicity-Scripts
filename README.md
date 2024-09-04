@@ -15,9 +15,8 @@ Juicity 协议是一个开源的网络代理协议，作者在开发 Juicity 协
 
 ## 客户端配置
 1、根据客户端操作系统，下载对应的 Juicity 客户端，以 64 位 windows 操作系统，V2rayN 为例。
-
-在官方网站下载 juicity-windows-x86_64.zip，解压后将 juicity-client.exe 文件 copy 到 v2rayN 安装目录 \bin\juicity 目录中。 如果 bin 目录中没有 juicity 文件夹，请自行创建。
-Juicity 客户端：https://github.com/juicity/juicity/releases/latest
+- 在官方网站下载 juicity-windows-x86_64.zip，解压后将 juicity-client.exe 文件 copy 到 v2rayN 安装目录 \bin\juicity 目录中。 如果 bin 目录中没有 juicity 文件夹，请自行创建。
+- Juicity 客户端：https://github.com/juicity/juicity/releases/latest
 
 ## 感谢
 - Juicity协议：https://github.com/juicity/juicity
