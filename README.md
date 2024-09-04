@@ -22,6 +22,13 @@ wget -N https://raw.githubusercontent.com/Felix-zf/juicity-install/main/juicity.
 
 3、导入上一步配置好的 client.json 文件， Core 类型选择 juicity ，socks 端口填写上一步设置的监听端口后点确定按钮。
 
+4、苹果手机 Shadowrocket 客户端配置，类型选择 juicity ,分别填入地址、端口、UUID、密码、SIN后保存。
+
+juicity 协议的链接地址格式为：
+```
+juicity://uuid:password@example.domain.com:port?congestion_control=bbr&sni=example.domain.com&allow_insecure=0&pinned_certchain_sha256=CERT_HASH
+```
+
 ## 感谢
 - Juicity协议：https://github.com/juicity/juicity
 - HiFeng's Blog Juicity协议手动安装教程: https://www.hicairo.com/post/74.html#:~:text=Juicity%E3%80%81
