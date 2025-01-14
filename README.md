@@ -3,11 +3,14 @@
 Juicity 协议一键部署脚本
 
 ## 一键脚本地址
-
+1. test
 ```shell
 wget -N https://raw.githubusercontent.com/Felix-zf/juicity-script/main/juicity.sh && bash juicity.sh
 ```
-
+2. modify
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/Felix-zf/Juicity-script/main/juicity-installer.sh)
+```
 ## 协议介绍
   Juicity 协议是一个开源的网络代理协议，作者在开发 Juicity 协议时受到了 TUIC 的启发。Juicity、TUIC、Hysteria 协议一样，均基于 QUIC（Quick UDP Internet Connections）协议实现。QUIC 是一个由 Google 开发的基于 UDP 的传输层网络协议，旨在减少连接和传输延迟。Juicity 与 Hysteria 不同之处主要为使用的拥塞算法，Juicity 可以使用的拥塞算法包括 reno、cubic、bbr 和 bbr2 ，而 hysteria 可以使用 brutal 拥塞算法。 brutal 拥塞算法表现的更为霸道与暴力，因此在网络链路不好的情况下，Hysteria 协议比 Juicity 协议的传输速度要快一些。
 
