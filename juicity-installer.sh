@@ -20,7 +20,7 @@ print_with_delay() {
 # Introduction animation
 echo ""
 echo ""
-print_with_delay "juicity-installer by DEATHLINE | @NamelesGhoul" 0.1
+print_with_delay "juicity-installer by FELIX | @Felix7200gts" 0.1
 echo ""
 echo ""
 
