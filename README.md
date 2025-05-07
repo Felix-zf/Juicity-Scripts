@@ -35,3 +35,4 @@ juicity://uuid:password@example.domain.com:port?congestion_control=bbr&sni=examp
 ## 感谢
 - Juicity协议：https://github.com/juicity/juicity
 - HiFeng's Juicity协议手动安装教程: https://www.hicairo.com/post/74.html
+- deathline94'PJ: https://github.com/deathline94/Juicity-Installer
